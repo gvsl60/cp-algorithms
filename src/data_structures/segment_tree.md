@@ -1184,7 +1184,7 @@ struct Vertex {
 Obviously this idea can be extended in lots of different ways. E.g. by adding support for range updates via lazy propagation.
 
 ## Practice Problems
-
+* [Codeforces - Mendocinos Mismanaging Malbec](https://codeforces.com/gym/106682/problem/M) 
 * [SPOJ - KQUERY](http://www.spoj.com/problems/KQUERY/) [Persistent segment tree / Merge sort tree]
 * [Codeforces - Xenia and Bit Operations](https://codeforces.com/problemset/problem/339/D)
 * [UVA 11402 - Ahoy, Pirates!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2397)
